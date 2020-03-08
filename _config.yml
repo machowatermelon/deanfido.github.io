@@ -14,7 +14,7 @@ description: A virtual proof that I'm a dick
 url: "https://machowatermelon.github.io"
 
 # baseurl should be an empty string
-baseurl: "/"
+baseurl: "https://machowatermelon.github.io"
 
 # --- Navigation bar options --- #
 
