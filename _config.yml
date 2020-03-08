@@ -11,10 +11,10 @@ description: A virtual proof that I'm a dick
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://machowatermelon.github.io"
+# url: "https://machowatermelon.github.io"
 
 # baseurl should be an empty string
-baseurl: "https://machowatermelon.github.io"
+# baseurl: "https://machowatermelon.github.io"
 
 # --- Navigation bar options --- #
 
@@ -186,7 +186,7 @@ defaults:
 link-tags: true
 
 # Exclude these files from production site
-exclude: 
+exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
