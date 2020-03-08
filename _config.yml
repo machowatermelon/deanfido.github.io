@@ -187,14 +187,14 @@ link-tags: true
 
 # Exclude these files from production site
 exclude:
- - CHANGELOG.md
- - CNAME
- - Dockerfile
- - Gemfile
- - Gemfile.lock
- - LICENSE
- - README.md
- - Vagrantfile
+- CHANGELOG.md
+- CNAME
+- Dockerfile
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- Vagrantfile
 
 # prose.io config
 #prose:
