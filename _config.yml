@@ -38,15 +38,15 @@ description: A virtual proof that I'm a dick
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#ece3fc"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#ece3fc"
+footer-text-col: "#ece3fc"
+footer-link-col: "#ece3fc"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 #author:
- # name: Some Person
+ name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -86,10 +86,11 @@ footer-link-col: "#404040"
 #  yelp: yourname
 
 # Select which share links to show in posts
-#share-links-active:
- # twitter: true
-  #facebook: true
-  #linkedin: true
+share-links-active:
+ twitter: true
+ facebook: true
+ linkedin: true
+ instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -166,7 +167,7 @@ date_format: "%B %-d, %Y"
  # input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
+ddefaults:
   -
     scope:
       path: ""
